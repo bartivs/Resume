@@ -1,0 +1,183 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience",
+    "projects": "Recent Projects",
+    "awards": "",
+    "education": "Education",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Oscar Bartolome Valdez Sarubbi",
+    "email": "bartivasa@gmail.com",
+    "phone": "+595971 514475",
+    "location": {
+      "address": " Paraguay"
+    },
+    "website": "https://www.linkedin.com/in/barti-valdez-80a3a5168/"
+  },
+  "education": [
+    {
+      "institution": "Universidad Nacional de Asunción",
+      "area": "Electronic Engieniring",
+      "endDate": "2020",
+      "location": "San Lorenzo, Paraguay",
+      "studyType": "BG",
+      "gpa": "3.368",
+      "startDate": "Jul 2014"
+    }
+  ],
+  "work": [
+    {
+      "company": "Softec SRL",
+      "location": "Asuncion, Paraguay",
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Implementing Django Rest Framework bankends, for multiple e-commerce, CRMs and location based aplications.",
+        "Migration multiple existing proyects into an autometed deployment using Docker and GitLab actions.",
+        "Implementing web and mobile apps using React and React Native.",
+        "Maintenance and features development for legacy Asp.NET BPM system."
+      ],
+      "position": "Full Stack Software Engineer",
+      "startDate": "Aug 2021"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "Css",
+        "HTML",
+        "Python",
+        "C/ C++",
+        "php",
+        "C#",
+        "VB.net",
+        "SQL",
+        "Bash"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "React",
+        "React Native",
+        "Tailwind",
+        "Bootstrap",
+        "Mobx",
+        "Astro.js",
+        "Next.js"
+      ],
+      "name": "Front-end "
+    },
+    {
+      "keywords": [
+        "Django",
+        "DRF( Django REST  Framework)",
+        "Express",
+        "ASP.net",
+        "GraphQL"
+      ],
+      "name": "Back-end"
+    },
+    {
+      "keywords": [
+        "MS SQL server",
+        "Postgres",
+        "MySQL",
+        "Redis"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Windows",
+        "Linux",
+        "Ubuntu",
+        "Arch",
+        "MacOS",
+        null
+      ],
+      "name": "Operating Systems"
+    },
+    {
+      "keywords": [
+        "VsCode",
+        "Docker",
+        "Compose",
+        "Yaml",
+        "Vim",
+        null
+      ],
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "Automatization",
+        "Scripting",
+        "Testing",
+        "Clean Code",
+        "Design",
+        "Telecommunications",
+        "CI/CD"
+      ],
+      "name": "Others"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "description": "A ChatBot for the faculty students, using Rasa, Docker, Postgres and Telegram",
+      "keywords": [
+        "Rasa Open Source",
+        "Postgres",
+        "Python",
+        "Telegram",
+        "Docker"
+      ],
+      "name": "Faculty Chat Bot",
+      "url": "https://github.com/bartivs/fiuna-chatbot-model"
+    },
+    {
+      "keywords": [
+        "Astro.js",
+        "Keystone.js",
+        "PostgreSQL",
+        "Docker",
+        "GraphQL"
+      ],
+      "name": "Personal Blog",
+      "description": "A personal site",
+      "url": "https://github.com/bartivs/blog-client"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
