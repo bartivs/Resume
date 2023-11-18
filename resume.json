@@ -1,11 +1,6 @@
 {
-  "selectedTemplate": 1,
-  "headings": {
-    "work": "Work Experience",
-    "projects": "Recent Projects",
-    "awards": "",
-    "education": "Education",
-    "skills": "Skills"
+  "meta": {
+    "theme": "short"
   },
   "basics": {
     "name": "Oscar Bartolome Valdez Sarubbi",
@@ -24,28 +19,22 @@
       "location": "San Lorenzo, Paraguay",
       "studyType": "BG",
       "gpa": "3.368",
-      "startDate": "Jul 2014"
+      "startDate": "2014-07"
     }
   ],
   "work": [
     {
       "company": "Softec SRL",
       "location": "Asuncion, Paraguay",
-      "website": "",
-      "endDate": "Present",
+      "website": "https://softec.com.py/",
       "highlights": [
         "Implementing Django Rest Framework bankends, for multiple e-commerce, CRMs and location based aplications.",
         "Migration multiple existing proyects into an autometed deployment using Docker and GitLab actions.",
         "Implementing web and mobile apps using React and React Native.",
-        "Maintenance and features development for legacy Asp.NET BPM system."
+        "Maintenance and features development for legacy Asp.NET BPM system from a branch of a Multinational."
       ],
       "position": "Full Stack Software Engineer",
-      "startDate": "Aug 2021"
-    },
-    {
-      "highlights": [
-        ""
-      ]
+      "startDate": "2021-08"
     }
   ],
   "skills": [
@@ -157,21 +146,5 @@
       "description": "A personal site",
       "url": "https://github.com/bartivs/blog-client"
     }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "sections": [
-    "templates",
-    "profile",
-    "education",
-    "work",
-    "skills",
-    "projects"
   ]
 }
