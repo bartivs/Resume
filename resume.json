@@ -57,7 +57,7 @@
         "Css",
         "HTML",
         "Python",
-        "C/ C++",
+        "C/C++",
         "php",
         "C#",
         "VB.net",
@@ -76,7 +76,7 @@
         "Astro.js",
         "Next.js"
       ],
-      "name": "Front-end "
+      "name": "Front-end"
     },
     {
       "keywords": [
@@ -103,8 +103,7 @@
         "Linux",
         "Ubuntu",
         "Arch",
-        "MacOS",
-        null
+        "MacOS"
       ],
       "name": "Operating Systems"
     },
@@ -115,7 +114,7 @@
         "Compose",
         "Yaml",
         "Vim",
-        null
+        "Prisma"
       ],
       "name": "Tools"
     },
@@ -130,12 +129,8 @@
         "CI/CD"
       ],
       "name": "Others"
-    },
-    {
-      "keywords": [
-        ""
-      ]
     }
+    
   ],
   "projects": [
     {
@@ -177,7 +172,6 @@
     "education",
     "work",
     "skills",
-    "projects",
-    "awards"
+    "projects"
   ]
 }
