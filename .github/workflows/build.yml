@@ -28,6 +28,6 @@ jobs:
       - uses: actions/deploy-pages@v2
         name: Deploy to GitHub Pages
         with:
-          artifact_name: index.html
+          artifact_name: docs/index.html
 
      
