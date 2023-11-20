@@ -24,13 +24,12 @@ jobs:
           theme: macchiato
           resume_filepath: resume.json
           # modifies the index.html in-place
-          output_filepath: docs/index.html
-      - run: ls -a docs/
+      - run: ls -a 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
             name: github-pages
-            path: docs/index.html
+            path: index.html
       - uses: actions/deploy-pages@v2
         name: Deploy to GitHub Pages
        
