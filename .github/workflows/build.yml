@@ -23,7 +23,7 @@ jobs:
         with:
           theme: macchiato
           resume_filepath: resume.json
-          output_filepath: output/index.html
+          output_filepath: index.html
           # modifies the index.html in-place
       - run: ls -a 
       - name: Upload Pages artifact
