@@ -27,6 +27,7 @@ jobs:
           # modifies the index.html in-place
       - run: ls -a 
       - run: pwd 
+      - run: cat /home/runner/work/Resume/Resume/index.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
