@@ -26,6 +26,7 @@ jobs:
           output_filepath: index.html
           # modifies the index.html in-place
       - run: ls -a 
+      - run: pwd 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
