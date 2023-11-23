@@ -18,12 +18,14 @@ jobs:
     needs: check_run
     steps:
       - uses: actions/checkout@v3
+      - run:  mkdir dist
       - uses: kelvintaywl/action-jsonresume-export@v1
         name: Export resume as HTML
         with:
           theme: macchiato
           resume_filepath: resume.json
-          output_filepath: index.html
+
+          output_filepath: dist/index.html
           # modifies the index.html in-place
       - run:  ls -a 
       - run:  pwd
@@ -38,7 +40,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: /home/runner/work/Resume/Resume/index.html
+          path: /home/runner/work/Resume/Resume/dist
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
