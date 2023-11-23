@@ -25,6 +25,7 @@ jobs:
           resume_filepath: resume.json
           output_filepath: index.html
           # modifies the index.html in-place
+      - run:  ls -a /github/workspace
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v2
         with:
