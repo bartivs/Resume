@@ -27,7 +27,7 @@ jobs:
           # modifies the index.html in-place
       - run:  ls -a 
       - run:  pwd
-      - name: Upload Pages artifact
+      - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
             name: github-pages
