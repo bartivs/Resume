@@ -29,6 +29,8 @@ jobs:
       - run:  pwd
       - name: Upload Pages artifact
         uses: actions/upload-artifact@v3
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
         with:
             name: github-pages
             path: /home/runner/work/Resume/Resume/index.html
