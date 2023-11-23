@@ -23,7 +23,7 @@ jobs:
         with:
           theme: macchiato
           resume_filepath: resume.json
-          output_filepath: index.html
+          output_filepath: output/index.html
           # modifies the index.html in-place
       - run:  ls -a 
       - run:  pwd
@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
             name: github-pages
-            path: /github/workspace/index.html
+            path: /home/runner/work/Resume/Resume/output
       - uses: actions/deploy-pages@v2
         name: Deploy to GitHub Pages
        
