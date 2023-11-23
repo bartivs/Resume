@@ -27,13 +27,18 @@ jobs:
           # modifies the index.html in-place
       - run:  ls -a 
       - run:  pwd
+      # - name: Upload artifact
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #       name: github-pages
+      #       path: /home/runner/work/Resume/Resume/index.html
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-pages-artifact@v2
         with:
-            name: github-pages
-            path: /home/runner/work/Resume/Resume/index.html
-      # - name: Upload Pages artifact
-      #   uses: actions/upload-pages-artifact@v2
+          # Upload entire repository
+          path: /home/runner/work/Resume/Resume/index.html
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
