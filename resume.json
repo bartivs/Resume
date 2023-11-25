@@ -28,10 +28,11 @@
       "location": "Asuncion, Paraguay",
       "website": "https://softec.com.py/",
       "highlights": [
-        "Implementing Django Rest Framework bankends, for multiple e-commerce, CRMs and location based aplications.",
+        "Implementation and Maintenance of Rest Framework bankends, for multiple e-commerce, CRMs and location based aplications.",
         "Migration multiple existing proyects into an autometed deployment using Docker and GitLab actions.",
         "Implementing web and mobile apps using React and React Native.",
-        "Maintenance and features development for legacy Asp.NET BPM system from a branch of a Multinational."
+        "Implementation and Maintenance and features development of a legacy Asp.NET BPM system from a branch of a Multinational.",
+        "Guidence for junior peers."
       ],
       "position": "Full Stack Software Engineer",
       "startDate": "2021-08"
@@ -123,7 +124,7 @@
   ],
   "projects": [
     {
-      "description": "A ChatBot for the faculty students, using Rasa, Docker, Postgres and Telegram",
+      "description": "A ChatBot to help faculty students.",
       "keywords": [
         "Rasa Open Source",
         "Postgres",
