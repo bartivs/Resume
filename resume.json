@@ -119,7 +119,6 @@
       ],
       "name": "Others"
     }
-    
   ],
   "projects": [
     {
@@ -145,6 +144,26 @@
       "name": "Personal Blog",
       "description": "A personal site",
       "url": "https://github.com/bartivs/blog-client"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    }
+  ],
+  "references": [
+    {
+      "name": "Juan Leopoldo Balsevich Prieto",
+      "reference": "Mechanical and Industrial Engineer at Asuncion NEC"
+    },
+    {
+      "name": "Oscar Enrique Gonzalez Escurra",
+      "reference": "Software Developer and Instructor at Roshka S.A"
     }
   ]
 }
