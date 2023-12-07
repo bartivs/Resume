@@ -165,5 +165,22 @@
       "name": "Oscar Enrique Gonzalez Escurra",
       "reference": "Software Developer and Instructor at Roshka S.A."
     }
+  ],
+  "interests": [
+    {
+      "name": "Automatization and deployment",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "Pipelines"
+      ]
+    },
+    {
+      "name": "Performance Programming Languages",
+      "keywords": [
+        "Rust",
+        "Go"
+      ]
+    }
   ]
 }
