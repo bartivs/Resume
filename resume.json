@@ -103,7 +103,8 @@
         "Compose",
         "Yaml",
         "Vim",
-        "Prisma"
+        "Prisma",
+        "Sentry"
       ],
       "name": "Tools"
     },
@@ -149,7 +150,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate Fluent"
     },
     {
       "language": "Spanish",
