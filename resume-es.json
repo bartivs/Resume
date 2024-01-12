@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "theme": "short"
+  },
+
+  "basics": {
+    "name": "Oscar Bartolome Valdez Sarubbi",
+    "email": "bartivasa@gmail.com",
+    "phone": "+595971 514475",
+    "location": {
+      "address": " Paraguay"
+    },
+    "website": "https://www.linkedin.com/in/barti-valdez-80a3a5168/"
+  },
+  "education": [
+    {
+      "institution": "Universidad Nacional de Asunción",
+      "area": "Ingeniería Electrónica",
+      "endDate": "2020",
+      "location": "San Lorenzo, Paraguay",
+      "studyType": "BG",
+      "startDate": "2014-07"
+    }
+  ],
+  "work": [
+    {
+      "company": "Softec SRL",
+      "location": "Asuncion, Paraguay",
+      "website": "https://softec.com.py/",
+      "highlights": [
+        "Desarrolo y mantenimento de servicios REST, para varias aplicaciones como e-commerce, CRMs y basadas en ubicación.",
+        "Migracion de puesta en producción automatizada de aplicaciones usando Docker and GitLab actions.",
+        "Implementacion y desarrolo de aplicaciones mobiles en React Native y Ionic.",
+        "Mantenimiento y desarrollo de funcionalidades de sistema BPM en ASP.net de sede multinacional en Paraguay."
+      ],
+      "position": "Desarrollador Full Stack",
+      "startDate": "2021-08"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "Css",
+        "HTML",
+        "Python",
+        "C/C++",
+        "php",
+        "C#",
+        "VB.net",
+        "SQL",
+        "Bash"
+      ],
+      "name": "Lenguajes de Programación"
+    },
+    {
+      "keywords": [
+        "React",
+        "React Native",
+        "Tailwind",
+        "Bootstrap",
+        "Mobx",
+        "Astro.js",
+        "Next.js"
+      ],
+      "name": "Front-end"
+    },
+    {
+      "keywords": [
+        "Django",
+        "DRF( Django REST  Framework)",
+        "Express",
+        "ASP.net",
+        "GraphQL"
+      ],
+      "name": "Back-end"
+    },
+    {
+      "keywords": [
+        "MS SQL server",
+        "Postgres",
+        "MySQL",
+        "Redis"
+      ],
+      "name": "Bases de datos"
+    },
+    {
+      "keywords": [
+        "Windows",
+        "Linux",
+        "Ubuntu",
+        "Arch",
+        "MacOS"
+      ],
+      "name": "Sistemas Operativos"
+    },
+    {
+      "keywords": [
+        "VsCode",
+        "Docker",
+        "Compose",
+        "Yaml",
+        "Vim",
+        "Prisma",
+        "Sentry"
+      ],
+      "name": "Herramientas"
+    },
+    {
+      "keywords": [
+        "Automatización",
+        "Scripting",
+        "Testing",
+        "Clean Code",
+        "Design",
+        "Telecommunications",
+        "CI/CD"
+      ],
+      "name": "Otras areas de conocimiento"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Un chatbot basado en Lenguaje natural e Inteligencia Artificial.",
+      "keywords": [
+        "Rasa Open Source",
+        "Postgres",
+        "Python",
+        "Telegram",
+        "Docker"
+      ],
+      "name": "Chat Bot de atencion a Alumnos",
+      "url": "https://github.com/bartivs/fiuna-chatbot-model"
+    },
+    {
+      "keywords": [
+        "Astro.js",
+        "Keystone.js",
+        "PostgreSQL",
+        "Docker",
+        "GraphQL"
+      ],
+      "name": "Personal Blog",
+      "description": "Sitio personal",
+      "url": "https://github.com/bartivs/blog-client"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Avanzado"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Nativo"
+    }
+  ],
+  "references": [
+    {
+      "name": "Juan Leopoldo Balsevich Prieto",
+      "reference": "Ingeniero Mecanico e Industrial en Asuncion NEC."
+    },
+    {
+      "name": "Oscar Enrique Gonzalez Escurra",
+      "reference": "Software Developer y Instructor en Roshka S.A."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Automatización",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "Pipelines"
+      ]
+    },
+    {
+      "name": "Lenguajes de Programación",
+      "keywords": [
+        "Rust",
+        "Go",
+        "Java"
+      ]
+    }
+  ]
+}
