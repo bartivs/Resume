@@ -39,7 +39,7 @@
         "basicsPhone": "Telefono",
         "basicsProfiles": "Perfiles",
         "basicsUrl": "URL",
-        "languages": "Lenguaje",
+        "languages": "Idiomas",
         "education": "Educación",
         "certificates": "Certificados",
         "work": "Experiencia Laboral",
@@ -57,6 +57,7 @@
     "name": "Oscar Bartolome Valdez Sarubbi",
     "email": "bartivasa@gmail.com",
     "phone": "+595971 514475",
+    "image": "https://media.licdn.com/dms/image/C4D03AQEO9NFWoolKcA/profile-displayphoto-shrink_200_200/0/1628046371530?e=1710374400&v=beta&t=jPVBttCdX7hDJ2MZJkPUximTnGspQ8LfSq7famFXunI",
     "location": {
       "address": " Paraguay"
     },
@@ -78,7 +79,7 @@
       "location": "Asuncion, Paraguay",
       "website": "https://softec.com.py/",
       "highlights": [
-        "Desarrolo y mantenimento de servicios REST, para varias aplicaciones como e-commerce, CRMs y basadas en ubicación.",
+        "Desarrollo y mantenimento de servicios REST, para varias aplicaciones como e-commerce, CRMs y basadas en ubicación.",
         "Migracion de puesta en producción automatizada de aplicaciones usando Docker and GitLab actions.",
         "Implementacion y desarrolo de aplicaciones mobiles en React Native y Ionic.",
         "Mantenimiento y desarrollo de funcionalidades de sistema BPM en ASP.net de sede multinacional en Paraguay."
