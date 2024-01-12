@@ -1,8 +1,28 @@
 {
   "meta": {
-    "theme": "short"
+    "theme": "short",
+    "rickosborne": {
+      "titles": {
+        "contact": "Contacto",
+        "basicsEmail": "E-mail",
+        "basicsLocation": "Ubicación",
+        "basicsPhone": "Telefono",
+        "basicsProfiles": "Perfiles",
+        "basicsUrl": "URL",
+        "languages": "Lenguaje",
+        "education": "Educación",
+        "certificates": "Certificados",
+        "work": "Experiencia Laboral",
+        "projects": "Proyectos",
+        "volunteer": "Voluntariado",
+        "publications": "Publicaciones",
+        "awards": "Premios",
+        "skills": "Habilidades",
+        "interests": "Intereses",
+        "references": "Referencias"
+      }
+    }
   },
-
   "basics": {
     "name": "Oscar Bartolome Valdez Sarubbi",
     "email": "bartivasa@gmail.com",
