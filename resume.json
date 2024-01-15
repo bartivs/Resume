@@ -1,6 +1,41 @@
 {
   "meta": {
-    "theme": "short"
+    "theme": "short",
+    "meta": {
+      "theme": "short",
+      "rickosborne": {
+        "layout": [
+          {
+            "id": "top",
+            "sections": []
+          },
+          {
+            "id": "left",
+            "sections": [
+              "basics",
+              "education",
+              "work",
+              "volunteer",
+              "projects",
+              "languages",
+              "references"
+            ]
+          },
+          {
+            "id": "right",
+            "sections": [
+              "avatar",
+              "contact",
+              "certificates",
+              "publications",
+              "awards",
+              "skills",
+              "interests"
+            ]
+          }
+        ]
+      }
+    }
   },
   "basics": {
     "name": "Oscar Bartolome Valdez Sarubbi",
@@ -30,8 +65,7 @@
         "Implementation and Maintenance of Rest Framework bankends, of multiple e-commerce, CRMs and location based aplications.",
         "Migration multiple existing proyects into an autometed deployment using Docker and GitLab actions.",
         "Implementing web and mobile apps using React and React Native.",
-        "Maintenance and features development of a legacy Asp.NET BPM system from a branch of a Multinational.",
-        "Guidence for junior peers."
+        "Maintenance and features development of Asp.NET BPM system from local branch of a Multinational."
       ],
       "position": "Full Stack Software Engineer",
       "startDate": "2021-08"
@@ -129,7 +163,9 @@
         "Postgres",
         "Python",
         "Telegram",
-        "Docker"
+        "Docker",
+        "NLU",
+        "Tranformers"
       ],
       "name": "Faculty Chat Bot",
       "url": "https://github.com/bartivs/fiuna-chatbot-model"

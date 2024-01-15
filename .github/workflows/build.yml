@@ -22,7 +22,7 @@ jobs:
       - uses: kelvintaywl/action-jsonresume-export@v1
         name: Export resume as HTML
         with:
-          theme: macchiato
+          theme: rickosborne 
           resume_filepath: resume.json
 
           output_filepath: dist/index.html
