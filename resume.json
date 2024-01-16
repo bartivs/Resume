@@ -1,40 +1,37 @@
 {
   "meta": {
     "theme": "short",
-    "meta": {
-      "theme": "short",
-      "rickosborne": {
-        "layout": [
-          {
-            "id": "top",
-            "sections": []
-          },
-          {
-            "id": "left",
-            "sections": [
-              "basics",
-              "education",
-              "work",
-              "volunteer",
-              "projects",
-              "languages",
-              "references"
-            ]
-          },
-          {
-            "id": "right",
-            "sections": [
-              "avatar",
-              "contact",
-              "certificates",
-              "publications",
-              "awards",
-              "skills",
-              "interests"
-            ]
-          }
-        ]
-      }
+    "rickosborne": {
+      "layout": [
+        {
+          "id": "top",
+          "sections": []
+        },
+        {
+          "id": "left",
+          "sections": [
+            "basics",
+            "education",
+            "work",
+            "volunteer",
+            "projects",
+            "languages",
+            "references"
+          ]
+        },
+        {
+          "id": "right",
+          "sections": [
+            "avatar",
+            "contact",
+            "certificates",
+            "publications",
+            "awards",
+            "skills",
+            "interests"
+          ]
+        }
+      ]
     }
   },
   "basics": {
