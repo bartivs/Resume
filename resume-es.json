@@ -4,12 +4,12 @@
     "rickosborne": {
       "layout": [
         {
-          "id": "top",
-          "sections": []
+        "id": "top",
+        "sections": []
         },
         {
-          "id": "left",
-          "sections": [
+        "id": "left",
+        "sections": [
             "basics",
             "education",
             "work",
@@ -20,8 +20,8 @@
           ]
         },
         {
-          "id": "right",
-          "sections": [
+        "id": "right",
+        "sections": [
             "avatar",
             "contact",
             "certificates",
@@ -31,7 +31,26 @@
             "interests"
           ]
         }
-      ]
+      ],
+      "titles": {
+        "contact": "Contacto",
+        "basicsEmail": "E-mail",
+        "basicsLocation": "Ubicación",
+        "basicsPhone": "Telefono",
+        "basicsProfiles": "Perfiles",
+        "basicsUrl": "URL",
+        "languages": "Idiomas",
+        "education": "Educación",
+        "certificates": "Certificados",
+        "work": "Experiencia Laboral",
+        "projects": "Proyectos",
+        "volunteer": "Voluntariado",
+        "publications": "Publicaciones",
+        "awards": "Premios",
+        "skills": "Habilidades",
+        "interests": "Intereses",
+        "references": "Referencias"
+      }
     }
   },
   "basics": {
@@ -47,7 +66,7 @@
   "education": [
     {
       "institution": "Universidad Nacional de Asunción",
-      "area": "Electronic Engineering",
+      "area": "Ingeniería Electrónica",
       "endDate": "2020",
       "location": "San Lorenzo, Paraguay",
       "studyType": "BG",
@@ -60,12 +79,12 @@
       "location": "Asuncion, Paraguay",
       "website": "https://softec.com.py/",
       "highlights": [
-        "Implementation and Maintenance of Rest Framework bankends, of multiple e-commerce, CRMs and location based aplications.",
-        "Migration multiple existing proyects into an autometed deployment using Docker and GitLab actions.",
-        "Implementing web and mobile apps using React and React Native.",
-        "Maintenance and features development of Asp.NET BPM system from local branch of a Multinational."
+        "Desarrollo y mantenimento de servicios REST, para varias aplicaciones como e-commerce, CRMs y basadas en ubicación.",
+        "Migracion de puesta en producción automatizada de aplicaciones usando Docker and GitLab actions.",
+        "Implementacion y desarrolo de aplicaciones mobiles en React Native y Ionic.",
+        "Mantenimiento y desarrollo de funcionalidades de sistema BPM en ASP.net de sede multinacional en Paraguay."
       ],
-      "position": "Full Stack Software Engineer",
+      "position": "Desarrollador Full Stack",
       "startDate": "2021-08"
     }
   ],
@@ -85,7 +104,7 @@
         "SQL",
         "Bash"
       ],
-      "name": "Programming Languages"
+      "name": "Lenguajes de Programación"
     },
     {
       "keywords": [
@@ -116,7 +135,7 @@
         "MySQL",
         "Redis"
       ],
-      "name": "Databases"
+      "name": "Bases de datos"
     },
     {
       "keywords": [
@@ -126,7 +145,7 @@
         "Arch",
         "MacOS"
       ],
-      "name": "Operating Systems"
+      "name": "Sistemas Operativos"
     },
     {
       "keywords": [
@@ -138,11 +157,11 @@
         "Prisma",
         "Sentry"
       ],
-      "name": "Tools"
+      "name": "Herramientas"
     },
     {
       "keywords": [
-        "Automatization",
+        "Automatización",
         "Scripting",
         "Testing",
         "Clean Code",
@@ -150,22 +169,20 @@
         "Telecommunications",
         "CI/CD"
       ],
-      "name": "Others"
+      "name": "Otras areas de conocimiento"
     }
   ],
   "projects": [
     {
-      "description": "A ChatBot to help faculty students.",
+      "description": "Un chatbot basado en Lenguaje natural e Inteligencia Artificial.",
       "keywords": [
         "Rasa Open Source",
         "Postgres",
         "Python",
         "Telegram",
-        "Docker",
-        "NLU",
-        "Tranformers"
+        "Docker"
       ],
-      "name": "Faculty Chat Bot",
+      "name": "Chat Bot de atencion a Alumnos",
       "url": "https://github.com/bartivs/fiuna-chatbot-model"
     },
     {
@@ -177,33 +194,33 @@
         "GraphQL"
       ],
       "name": "Personal Blog",
-      "description": "A personal site",
+      "description": "Sitio personal",
       "url": "https://github.com/bartivs/blog-client"
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Intermediate Fluent"
+      "fluency": "Avanzado"
     },
     {
       "language": "Spanish",
-      "fluency": "Native"
+      "fluency": "Nativo"
     }
   ],
   "references": [
     {
       "name": "Juan Leopoldo Balsevich Prieto",
-      "reference": "Mechanical and Industrial Engineer at Asuncion NEC."
+      "reference": "Ingeniero Mecanico e Industrial en Asuncion NEC."
     },
     {
       "name": "Oscar Enrique Gonzalez Escurra",
-      "reference": "Software Developer and Instructor at Roshka S.A."
+      "reference": "Software Developer y Instructor en Roshka S.A."
     }
   ],
   "interests": [
     {
-      "name": "Automatization and deployment",
+      "name": "Automatización",
       "keywords": [
         "Kubernetes",
         "Docker",
@@ -211,7 +228,7 @@
       ]
     },
     {
-      "name": "Programming Languages",
+      "name": "Lenguajes de Programación",
       "keywords": [
         "Rust",
         "Go",
