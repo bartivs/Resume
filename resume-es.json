@@ -4,12 +4,13 @@
     "rickosborne": {
       "layout": [
         {
-        "id": "top",
-        "sections": []
+          "id": "top",
+          "sections": []
         },
         {
-        "id": "left",
-        "sections": [
+          "id": "left",
+          "sections": [
+            "awards",
             "basics",
             "education",
             "work",
@@ -20,13 +21,12 @@
           ]
         },
         {
-        "id": "right",
-        "sections": [
+          "id": "right",
+          "sections": [
             "avatar",
             "contact",
             "certificates",
             "publications",
-            "awards",
             "skills",
             "interests"
           ]
@@ -46,7 +46,7 @@
         "projects": "Proyectos",
         "volunteer": "Voluntariado",
         "publications": "Publicaciones",
-        "awards": "Premios",
+        "awards": "Perfil",
         "skills": "Habilidades",
         "interests": "Intereses",
         "references": "Referencias"
@@ -84,7 +84,7 @@
         "Implementacion y desarrolo de aplicaciones mobiles en React Native y Ionic.",
         "Mantenimiento y desarrollo de funcionalidades de sistema BPM en ASP.net de sede multinacional en Paraguay."
       ],
-      "position": "Desarrollador Full Stack",
+      "position": "Desarrollador Full Stack - Softec SRL",
       "startDate": "2021-08"
     }
   ],
@@ -168,6 +168,7 @@
         "Design",
         "Telecommunications",
         "Resolución de Problemas",
+        "Scrum",
         "CI/CD"
       ],
       "name": "Otras areas de conocimiento"
