@@ -60,7 +60,7 @@
       "location": "Asuncion, Paraguay",
       "website": "https://softec.com.py/",
       "highlights": [
-        "Implementation and Maintenance of Rest Framework bankends, of multiple e-commerce, CRMs and location based aplications.",
+        "Implementation and Maintenance of Django Rest Framework bankends, of multiple e-commerce, CRMs and location based aplications.",
         "Migration multiple existing projects into an automated deployment using Docker and GitLab actions.",
         "Implementing web and mobile apps using React and React Native.",
         "Maintenance and features development of Asp.NET BPM system from local branch of a Multinational Corporation."
